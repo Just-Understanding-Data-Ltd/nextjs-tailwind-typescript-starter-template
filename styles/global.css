@@ -1,0 +1,7 @@
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Importing custom fonts */
+/* @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Source+Serif+Pro&display=swap"); */
