@@ -20,3 +20,5 @@ Pull requests are welcome.
 - `_app.tsx` - You will need to update the open graph information in [this file](pages/_app.tsx) - according to https://github.com/garmeeh/next-seo
 
 2. Run `npm install`
+
+3. Run `npm run dev` for hot reloading your NextJS application.
